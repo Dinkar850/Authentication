@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Authentication</string>
+    <string name="email">EMAIL</string>
+    <string name="login">LOGIN</string>
+    <string name="password">PASSWORD</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="register">SIGN UP</string>
 </resources>
