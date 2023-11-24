@@ -17,7 +17,7 @@ class SplashScreen : AppCompatActivity() {
         //creating a delay for our intent
         Handler(Looper.getMainLooper()).postDelayed({
             //define a variable for intent passing
-            val intent = Intent(this@SplashScreen, MainActivity::class.java)
+            val intent = Intent(this@SplashScreen, LoginUI::class.java)
             //passing intent
             startActivity(intent)
             //back button doesn't bring the previous activity back again
